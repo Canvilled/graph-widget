@@ -1,0 +1,26 @@
+.mb-4{
+    margin-bottom: 1rem;
+}
+.flex{
+    display: flex;
+}
+.justify-between{
+    justify-content: space-between;
+}
+.items-center{
+    align-items: center;
+}
+.loading-screen {
+    min-height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.loading-screen svg{
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    display: block;
+}
