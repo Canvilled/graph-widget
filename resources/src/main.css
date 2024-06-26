@@ -1,15 +1,19 @@
-.mb-4{
+.mb-4 {
     margin-bottom: 1rem;
 }
-.flex{
+
+.flex {
     display: flex;
 }
-.justify-between{
+
+.justify-between {
     justify-content: space-between;
 }
-.items-center{
+
+.items-center {
     align-items: center;
 }
+
 .loading-screen {
     min-height: 400px;
     display: flex;
@@ -18,7 +22,7 @@
     width: 100%;
 }
 
-.loading-screen svg{
+.loading-screen svg {
     width: 100px;
     height: 100px;
     margin: 0 auto;
